@@ -1,0 +1,7 @@
+C:\Sistemas Creados\NET\ProyectosAzure\DemostracionAppServiceMVC\obj\Release\net8.0\PubTmp\Out\DemostracionAppServiceMVC.exe
+C:\Sistemas Creados\NET\ProyectosAzure\DemostracionAppServiceMVC\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Sistemas Creados\NET\ProyectosAzure\DemostracionAppServiceMVC\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Sistemas Creados\NET\ProyectosAzure\DemostracionAppServiceMVC\obj\Release\net8.0\PubTmp\Out\DemostracionAppServiceMVC.dll
+C:\Sistemas Creados\NET\ProyectosAzure\DemostracionAppServiceMVC\obj\Release\net8.0\PubTmp\Out\DemostracionAppServiceMVC.deps.json
+C:\Sistemas Creados\NET\ProyectosAzure\DemostracionAppServiceMVC\obj\Release\net8.0\PubTmp\Out\DemostracionAppServiceMVC.runtimeconfig.json
+C:\Sistemas Creados\NET\ProyectosAzure\DemostracionAppServiceMVC\obj\Release\net8.0\PubTmp\Out\DemostracionAppServiceMVC.pdb
